@@ -4,12 +4,12 @@
 
 #### Extends WebSecurityConfigurerAdapter, and defined the security rules in the configure method.
 
-*For user “admin” :*
+**For user “admin” :**
 
     * Able to access /admin page
     * Unable to access /user page, redirect to 403 access denied page.
 
-*For user “user” :*
+**For user “user” :**
 
     * able to access /user page
     * unable to access /admin page, redirect to 403 access denied page.
