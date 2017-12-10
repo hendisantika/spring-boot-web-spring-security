@@ -19,3 +19,31 @@
 `mvn spring-boot:run`
 
 Access `http://localhost:8080`
+
+Login Home
+
+![Login Home](img/login.png "Login Home Page")
+
+Login Admin Home
+
+![Login Admin Home](img/admin.png "Login Admin Home Page")
+
+Login as Admin Home
+
+![Login as Admin Home](img/hello_admin.png "Login Admin Home Page")
+
+Logout Admin Home
+
+![Login Admin Home](img/loguot.png "Logout Admin Home Page")
+
+Login User Home
+
+![Login User Home](img/user.png "Login User Home Page")
+
+Login as User Home
+
+![Login as Admin Home](img/hello_user.png "Login Admin Home Page")
+
+Logout Admin Home
+
+![Login Admin Home](img/logout.png "Logout User Home Page")
