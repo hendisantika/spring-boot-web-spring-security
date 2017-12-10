@@ -47,3 +47,14 @@ Login as User Home
 Logout Admin Home
 
 ![Login Admin Home](img/logout.png "Logout User Home Page")
+Login Admin Home
+
+![Login Admin Home](img/admin.png "Login Admin Home Page")
+
+Login as Admin Home
+
+![Login as Admin Home](img/hello_admin.png "Login Admin Home Page")
+
+Access Deniud Home
+
+![Access Home](img/denied.png "Access Home Page")
