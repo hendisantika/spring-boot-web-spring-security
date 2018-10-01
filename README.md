@@ -18,6 +18,13 @@
 #### To Run this :
 `mvn spring-boot:run`
 
+User Login
+
+|#|Username|Password|
+|---|---|---|
+|1|admin|password|
+|2|user|password|
+
 Access `http://localhost:8080`
 
 Login Home
