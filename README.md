@@ -25,7 +25,7 @@ User Login
 |1|admin|password|
 |2|user|password|
 
-Access `http://localhost:8080`
+Access http://localhost:8080
 
 Login Home
 
